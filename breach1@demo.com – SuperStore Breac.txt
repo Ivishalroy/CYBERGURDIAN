@@ -1,0 +1,120 @@
+breach1@demo.com – SuperStore Breach (2022), exposed: credit cards, passwords
+
+breach2@demo.com – GameCenter Hack (2023), exposed: usernames, emails
+
+breach3@demo.com – Both breaches above
+
+alpha@demo.com – AlphaBank Leak (2021), exposed: account numbers, passwords
+
+socialfan@demo.com – SocialFan Network Breach (2020), exposed: profile photos, messages
+
+shopnow@demo.com – ShopNow Cyberattack (2022), exposed: payment info, addresses
+
+workhub@demo.com – WorkHub Database Leak (2023), exposed: employee records, emails
+
+healthfirst@demo.com – HealthFirst Data Exposure (2021), exposed: medical records, insurance IDs
+
+travelgo@demo.com – TravelGo Booking Breach (2022), exposed: passport numbers, itineraries
+
+studynet@demo.com – StudyNet Student Leak (2020), exposed: grades, login credentials
+
+cryptomax@demo.com – CryptoMax Exchange Hack (2023), exposed: wallet keys, transaction history
+
+medicareplus@demo.com – MedicarePlus Ransomware Attack (2022), exposed: patient files, billing details
+
+megaplay@demo.com – MegaPlay Gaming Breach (2021), exposed: in-game purchases, usernames
+
+foodieapp@demo.com – FoodieApp Database Leak (2023), exposed: delivery addresses, order history
+
+buildcorp@demo.com – BuildCorp Internal Leak (2020), exposed: project blueprints, contracts
+
+flyaway@demo.com – FlyAway Airline Hack (2022), exposed: frequent flyer accounts, credit card numbers
+
+joblink@demo.com – JobLink Data Exposure (2021), exposed: resumes, phone numbers
+
+citypay@demo.com – CityPay Payment Breach (2023), exposed: payment tokens, user emails
+
+edulab@demo.com – EduLab Research Leak (2020), exposed: research papers, staff credentials
+
+streamflix@demo.com – StreamFlix Account Dump (2021), exposed: subscription info, emails
+
+musicwave@demo.com – MusicWave Breach (2023), exposed: playlist data, login info
+
+shopcart@demo.com – ShopCart Payment Hack (2022), exposed: credit card details, shipping addresses
+
+docsecure@demo.com – DocSecure Healthcare Leak (2021), exposed: lab results, patient notes
+
+ridefast@demo.com – RideFast Driver Data Breach (2020), exposed: driver licenses, earnings reports
+
+gadgethub@demo.com – GadgetHub Store Breach (2023), exposed: purchase history, billing info
+
+coinvault@demo.com – CoinVault Wallet Hack (2021), exposed: crypto wallet IDs, passwords
+
+playverse@demo.com – PlayVerse Gamer Leak (2022), exposed: game progress, account emails
+
+foodtown@demo.com – FoodTown Loyalty Breach (2023), exposed: loyalty points, email addresses
+
+insureplus@demo.com – InsurePlus Data Exposure (2020), exposed: claims history, policy numbers
+
+triptrek@demo.com – TripTrek Travel Breach (2021), exposed: booking history, contact details
+
+securebank@demo.com – SecureBank Hack (2023), exposed: account balances, PINs
+
+streamzone@demo.com – StreamZone Leak (2020), exposed: viewing history, login credentials
+
+citywifi@demo.com – CityWiFi Public Network Breach (2022), exposed: connected device logs, MAC addresses
+
+medlink@demo.com – MedLink Patient Data Leak (2023), exposed: prescriptions, health IDs
+
+gamemart@demo.com – GameMart User Breach (2021), exposed: gamer tags, IP addresses
+
+buildmate@demo.com – BuildMate Supplier Leak (2020), exposed: supplier contracts, emails
+
+paymate@demo.com – PayMate Payment Breach (2023), exposed: bank routing numbers, transactions
+
+learnplus@demo.com – LearnPlus Student Data Leak (2021), exposed: quiz scores, personal emails
+
+airlux@demo.com – AirLux Passenger Leak (2022), exposed: seat preferences, travel itineraries
+
+jobfinder@demo.com – JobFinder Recruiter Hack (2020), exposed: recruiter notes, candidate CVs
+
+medsecure@demo.com – MedSecure Clinic Leak (2021), exposed: diagnosis data, insurance details
+
+cryptosafe@demo.com – CryptoSafe Wallet Breach (2023), exposed: seed phrases, wallet IDs
+
+snapbuy@demo.com – SnapBuy Account Leak (2020), exposed: saved payment cards, addresses
+
+fittrack@demo.com – FitTrack Fitness Breach (2022), exposed: workout logs, health metrics
+
+cybermart@demo.com – CyberMart Store Leak (2023), exposed: purchase receipts, stored card tokens
+
+safehome@demo.com – SafeHome IoT Device Leak (2021), exposed: device IPs, user accounts
+
+newsdaily@demo.com – NewsDaily Subscriber Breach (2020), exposed: subscriber names, email addresses
+
+quickship@demo.com – QuickShip Logistics Breach (2023), exposed: tracking numbers, delivery addresses
+
+lifecare@demo.com – LifeCare Hospital Leak (2021), exposed: emergency contact info, patient records
+
+booknet@demo.com – BookNet User Leak (2020), exposed: reading history, account emails
+
+gearpay@demo.com – GearPay Payment Breach (2023), exposed: stored payment credentials, billing details
+
+skylink@demo.com – SkyLink ISP Leak (2022), exposed: browsing history, account credentials
+
+smartmall@demo.com – SmartMall Loyalty Breach (2021), exposed: loyalty points, phone numbers
+
+talenthub@demo.com – TalentHub Resume Leak (2020), exposed: job history, personal contacts
+
+netstream@demo.com – NetStream Streaming Breach (2022), exposed: subscription records, email logins
+
+freshcart@demo.com – FreshCart Grocery Leak (2023), exposed: saved shopping lists, delivery addresses
+
+lawsecure@demo.com – LawSecure Legal Breach (2020), exposed: legal documents, attorney notes
+
+citymed@demo.com – CityMed Hospital Leak (2022), exposed: patient discharge summaries, health IDs
+
+cryptomine@demo.com – CryptoMine Investor Breach (2021), exposed: wallet IDs, investment logs
+
+apphub@demo.com – AppHub Developer Leak (2023), exposed: API keys, developer emails
+
